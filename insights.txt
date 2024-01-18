@@ -3,4 +3,7 @@ P4 searched up both songs withing UG search box, and opened plain UG beforehand
 
 P2 and P6 added the second song into the queue in spotify
 
+P2 used autoscroll for both songs additionally
+p4 used autoscroll for second song
+
 // todo, paste all important insight here and find common stuff
