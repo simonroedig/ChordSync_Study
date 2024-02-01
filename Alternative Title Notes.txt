@@ -9,3 +9,4 @@ with Synchronization Algorithm for Enhanced Learning."
 title snappy (nicht zu lang). CHrod
 
 
+ChordSync: Development of a Play-Along Guitar-Chord Tool with a Synchronization Algorithm
