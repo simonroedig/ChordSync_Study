@@ -1,2 +1,2 @@
-<h1>Study Results, WIP!</h1>
+<h1>Results of the study I conducted while building ChordSync.</h1>
 
